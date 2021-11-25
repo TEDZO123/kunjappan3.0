@@ -23,7 +23,7 @@
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": "20516707"
+      "value": "682307346"
     },
     "OWNER_USERNAME": {
       "description": "Your username",
@@ -42,19 +42,19 @@
     },
     "SUDO_USERS": {
       "description": "A space separated list of user_ids which should be considered sudo users",
-      "value": "254318997 18673980 83489514"
+      "value": "682307346 1316481146 1860865035"
     },
     "SUPPORT_USERS": {
       "description": "A space separated list of user_ids which should be considered support users (can gban/ungban, nothing else)",
-      "value": "254318997 18673980 83489514"
+      "value": "1316481146 682307346 1860865035"
     },
     "WHITELIST_USERS": {
       "description": "A space separated list of user_ids which should be considered whitelisted - they can't be banned.",
-      "value": "254318997 18673980 83489514"
+      "value": "1316481146 1860865035 682307346"
     },
     "DONATION_LINK": {
       "description": "Optional: link where you would like to receive donations.",
-      "value": "https://www.paypal.me/PaulSonOfLars"
+      "value": "https://t.me/king_of_psycho"
     },
     "PORT": {
       "description": "Port to use for your webhooks",
@@ -73,7 +73,7 @@
       "value": "True"
     },
     "BAN_STICKER": {
-      "description": "Which sticker to use when banning people. Use https://telegram.dog/ShowJsonBot to get the file_id",
+      "description": "Which sticker to use when banning people. Use https://telegram.dog/kunjappanpachubot to get the file_id",
       "value": "CAADBQADfQADv7rGI0wxx1ORU7UzAg",
       "required": false
     },
